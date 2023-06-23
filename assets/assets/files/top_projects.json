@@ -1,0 +1,123 @@
+{
+   "top_projects":[
+
+      {
+         "title":"Brainy Noise",
+         "imageUrls": [
+            "https://firebasestorage.googleapis.com/v0/b/mywebpage-f159c.appspot.com/o/BrainyNoise%2FScreenshot%202023-06-20%20at%202.17.39%20PM.png?alt=media&token=f1cc4c67-d0f5-4591-aa89-67f1fa31058c",
+            "https://firebasestorage.googleapis.com/v0/b/mywebpage-f159c.appspot.com/o/BrainyNoise%2FScreenshot%202023-06-20%20at%202.14.39%20PM.png?alt=media&token=39f2f95c-50e0-4d66-8422-72f96a1cc910",
+            "https://firebasestorage.googleapis.com/v0/b/mywebpage-f159c.appspot.com/o/BrainyNoise%2FScreenshot%202023-06-20%20at%202.10.56%20PM.png?alt=media&token=ab48abbe-1e5b-4636-8329-c3ca52e587e0"
+         ],
+         "description":"web prototype that allows to load magnetic resonances of the human brain and by using a machine learning model, obtains an answer with the identification of the noise level (presence or absence) of the images. During the development of the project, a model of Convolutional Neural Networks was developed. This is framed in the Artificial Intelligence area and its implementation was based on training, validation, testing and subsequent deployment. At the end, the applied model is the one that allows the identification of the noise level for each one of the magnetic resonances of the human brain.\nAdditionally, a file is generated with the result of the classification that is compatible with the information handled in the research area of the Faculty of Medicine of the Pontificia Universidad Javeriana and the Hospital San Ignacio. This can be downloaded once the result is obtained and the user can view it in the web prototype.",
+         "links":[
+            {"url": "https://github.com/Proyecto-de-Grado-Brainy-Noise","name": "Repositories"}
+         ]
+      },
+
+      {
+         "title":"Carvi",
+         "imageUrls": [
+            "https://firebasestorage.googleapis.com/v0/b/mywebpage-f159c.appspot.com/o/Carvi%2FScreenshot%202023-06-20%20at%202.21.38%20PM.png?alt=media&token=88bacf85-7583-4d28-a043-cb8ee68a820e",
+            "https://firebasestorage.googleapis.com/v0/b/mywebpage-f159c.appspot.com/o/Carvi%2FScreenshot%202023-06-20%20at%202.23.48%20PM.png?alt=media&token=b24498f1-5380-408b-a8d5-2a9404bbe843",
+            "https://firebasestorage.googleapis.com/v0/b/mywebpage-f159c.appspot.com/o/Carvi%2FScreenshot%202023-06-20%20at%202.25.32%20PM.png?alt=media&token=83495f85-de26-45a1-b918-ed360459076e"
+         ],
+         "description":"CarVi is a mobile application that offers the ability to capture photos of vehicles and obtain relevant information about them. The app uses two models to achieve this. First, it uses a model called ResNet50, which is a pre-trained convolutional neural network. However, instead of using it directly, the model is fine-tuned to specifically adapt it for the purpose of vehicle recognition. Fine-tuning involves retraining the model using a custom dataset, allowing model weights and features to be tuned to improve its accuracy in the vehicle recognition task. Second, CarVi uses an approach called the Spatial Attention Module (SAM) developed by Meta. SAM is used to remove the \"noise\" from the captured image of the vehicle, that is, its background and therefore only capture the vehicle. The spatial attention module helps to focus the model's attention on the most important regions of the image, which helps improve the quality and clarity of the information obtained from the vehicle.",
+         "links":[
+            {"url": "https://github.com/Sebas102507/carvi_app","name": "Frontend Repository"},
+            {"url": "https://github.com/Sebas102507/Carvi_Deep_Learning_Mobile_App/tree/main","name": "Backend Repository"}
+         ]
+      },
+
+      {
+         "title":"Litnine Cannabis",
+         "imageUrls": [
+            "https://firebasestorage.googleapis.com/v0/b/mywebpage-f159c.appspot.com/o/Litnine%2FScreenshot%202023-06-20%20at%203.20.19%20PM.png?alt=media&token=cd6ded30-3405-4a91-8470-600cfa1117f7",
+            "https://firebasestorage.googleapis.com/v0/b/mywebpage-f159c.appspot.com/o/Litnine%2FScreenshot%202023-06-20%20at%203.20.32%20PM.png?alt=media&token=c423ebe7-7852-46d4-aded-3671a67ab894",
+            "https://firebasestorage.googleapis.com/v0/b/mywebpage-f159c.appspot.com/o/Litnine%2FScreenshot%202023-06-20%20at%203.20.43%20PM.png?alt=media&token=2506af39-44af-4be1-96d2-229e873753ea"
+         ],
+         "description":"Litnine and Litnine Tiendas are two mobile applications that offer a marketplace specialized in the cannabis sector in Colombia. These applications have as their main objective to bring together in one place cannabis shops and consumers of medical and recreational cannabis. Litnine is the platform that connects consumers with cannabis shops. It provides users with a wide selection of cannabis shops, where they can explore different products, such as cannabis varieties, medicinal products, accessories, among others. Consumers can make purchases directly through the application and have the convenience of receiving the products at home. On the other hand, Litnine Tiendas is the platform designed for cannabis stores in Colombia. It offers businesses an online sales platform to promote their products and reach a broader customer base. Stores can display their inventory, describe their products, and manage transactions with consumers through the app. These applications seek to provide a safe and reliable space for cannabis consumers, providing clear information about the products and ensuring that the stores comply with the legal regulations established in Colombia. In addition, they offer a convenient and accessible experience for consumers who want to purchase products related to medical and recreational cannabis.",
+         "links":[
+            {"url": "https://www.litnine.com","name": "Web Page"}
+         ]
+      },
+
+      {
+         "title":"MeteoNet",
+         "imageUrls": [
+            "https://firebasestorage.googleapis.com/v0/b/mywebpage-f159c.appspot.com/o/MeteoNet%2FScreenshot%202023-06-20%20at%202.58.45%20PM.png?alt=media&token=2c1283bf-79da-491d-ba74-4f8b32246701",
+            "https://firebasestorage.googleapis.com/v0/b/mywebpage-f159c.appspot.com/o/MeteoNet%2FScreenshot%202023-06-20%20at%202.55.51%20PM.png?alt=media&token=8e6d226d-56bb-498d-a1ef-9219142656f1",
+            "https://firebasestorage.googleapis.com/v0/b/mywebpage-f159c.appspot.com/o/MeteoNet%2FScreenshot%202023-06-20%20at%202.59.20%20PM.png?alt=media&token=ea47848d-a0ee-4d19-b20b-e574f9557d97"
+         ],
+         "description":"MeteoNet is a data set published by the French meteorological service METEO FRANCE for the community to propose analyzes and models using climate data.\nSome of the data available in MeteoNet are the historical meteorological observations of sensors that measure temperature, humidity, pressure, wind in different stations located throughout the French territory, given the above, a meteorological station was chosen to analyze and through the use of networks recurrent neural pathways create a predictive model of temperature and precipitation at the weather station.",
+         "links":[
+            {"url": "https://github.com/Sebas102507/MeteoNetForecasting/tree/main","name": "Repository"}
+         ]
+      },
+
+      {
+         "title":"Music Genre Classifier",
+         "imageUrls": [
+            "https://firebasestorage.googleapis.com/v0/b/mywebpage-f159c.appspot.com/o/MusicGenreClassifier%2FScreenshot%202023-06-20%20at%202.38.31%20PM.png?alt=media&token=38b6c6a7-4d05-43b6-beca-f1a87f79d191",
+            "https://firebasestorage.googleapis.com/v0/b/mywebpage-f159c.appspot.com/o/MusicGenreClassifier%2FScreenshot%202023-06-20%20at%202.38.48%20PM.png?alt=media&token=0b4617f2-dc88-4a74-b01a-2e416b0b0357",
+            "https://firebasestorage.googleapis.com/v0/b/mywebpage-f159c.appspot.com/o/MusicGenreClassifier%2FScreenshot%202023-06-20%20at%202.39.07%20PM.png?alt=media&token=0e7de869-b0d5-484f-bb78-af35e7c9d937"
+         ],
+         "description":"The objective of the application is to correctly predict different 30-second audios provided by the user. The training of the models is based on the GTZAN music dataset.\nThe System has the following functional requirements, which in turn are presented as its functionalities.\n1) Make a prediction: The System must allow the user to load a .wav audio file no longer than 30 seconds. The System must then predict the musical genre of said audio and pass the calculated answer to the user.\n2) Obtain the results: The System must allow obtaining all the results calculated through the model. That is, all computed responses to requests to make a prediction.\n3) Access to the audios: The System must have a persistent storage of the audio files uploaded by the users. This allows you to compare the audio heard with the prediction made.\n4) Modify the model: The system must allow the system administrator to easily change the model trained to make the predictions. However, there is no need to train the model directly within the hardware components of the System. It can be trained externally and then brought into the System.",
+         "links":[
+            {"url": "https://github.com/Sebas102507/music_gender_app_classifier_with_NN","name": "Repository"}
+         ]
+      },
+
+      {
+         "title":"Rubik's Cube Deep Q-Network",
+         "imageUrls": [
+            "https://firebasestorage.googleapis.com/v0/b/mywebpage-f159c.appspot.com/o/Rubik's%20Cube%20Deep%20Q-Network%2FScreenshot%202023-06-20%20at%203.03.44%20PM.png?alt=media&token=78e8b967-1100-4c15-aaf8-d118192e251a",
+            "https://firebasestorage.googleapis.com/v0/b/mywebpage-f159c.appspot.com/o/Rubik's%20Cube%20Deep%20Q-Network%2FScreenshot%202023-06-20%20at%203.02.04%20PM.png?alt=media&token=cc36aa51-c326-48b3-8f65-0c34dfd1910a",
+            "https://firebasestorage.googleapis.com/v0/b/mywebpage-f159c.appspot.com/o/Rubik's%20Cube%20Deep%20Q-Network%2FScreenshot%202023-06-20%20at%203.05.50%20PM.png?alt=media&token=a1fb2534-9068-42eb-b0d4-472983571b9c"
+         ],
+         "description":"The project consists of developing an artificial intelligence model that is capable of solving the famous Rubik's cube puzzle automatically. To achieve this, a technique known as Deep Q-Networks (DNQ) is used.\nThe main idea is to train an artificial intelligence agent using the reinforcement learning technique. The agent is challenged to solve the Rubik's cube and learns to make decisions based on his current state and the actions available to move the faces of the cube. Using the DNQ technique, the agent learns to select the best actions in each state to get closer to an optimal solution.\nModel training is done through a combination of exploration and exploitation. The agent explores different movements and actions to discover new strategies and learn from the feedback received. At the same time, the agent also exploits prior knowledge and learned experiences to improve its performance.\nDuring training, the model is faced with different configurations of the Rubik's Cube and is given a positive reward when it progresses towards the solution and a negative reward when it moves away from the solution. As the agent continues to train and adjust his strategy, it is expected that he will be able to solve the Rubik's Cube more efficiently and in fewer moves.\nOnce the model is trained, it can be used to solve the Rubik's Cube automatically. The agent evaluates the current state of the cube and selects the optimal actions to reach a solution. The final result is a model capable of solving the Rubik's cube autonomously and efficiently.",
+         "links":[
+            {"url": "https://github.com/Sebas102507/RubikCubeDQN","name": "Repository"}
+         ]
+      },
+
+      {
+         "title":"Sign Language AI Classifier",
+         "imageUrls": [
+            "https://firebasestorage.googleapis.com/v0/b/mywebpage-f159c.appspot.com/o/SignLanguageAI%2FScreenshot%202023-06-20%20at%202.43.02%20PM.png?alt=media&token=553cafef-b7f0-4daa-b5aa-d9ee72fa04d1",
+            "https://firebasestorage.googleapis.com/v0/b/mywebpage-f159c.appspot.com/o/SignLanguageAI%2FScreenshot%202023-06-20%20at%202.53.03%20PM.png?alt=media&token=6ddb3a4f-6b7b-44e7-a76a-72067784e276",
+            "https://firebasestorage.googleapis.com/v0/b/mywebpage-f159c.appspot.com/o/SignLanguageAI%2FScreenshot%202023-06-20%20at%202.54.25%20PM.png?alt=media&token=bcde4f25-f445-4c64-9cd3-f0d63f65fdd6"
+         ],
+         "description":"The project uses the \"sign-language-mnist\" dataset, which contains images of 25 signs of sign language, each with its respective label. In this project three approaches were implemented using convolutional networks to classify signs of sign language.\nThe first approach is to train a convolutional network from scratch, which involves designing and training the neural network architecture without using transfer learning techniques. The convolutional network learns directly from the images in the dataset and adjusts for the specific characteristics of signs in sign language.\nIn the second approach, transfer learning is used, which involves leveraging a pre-trained neural network on a different data set. A pre-trained convolutional network, such as VGG16 or ResNet, is selected, and the latter network components are adjusted to fit the sign language dataset. This allows you to take advantage of the prior knowledge of the pre-trained network and speed up the training process.\nIn the third approach, transfer learning is used with the MobileNet V2 convolutional network. MobileNet V2 is an efficient architecture designed for computer vision tasks on mobile devices. By leveraging pre-trained MobileNet V2 on a large dataset, it can be used as a solid foundation for classifying the signs of sign language in this project.",
+         "links":[
+            {"url": "https://github.com/Sebas102507/SignLanguageAiClassifier/tree/main","name": "Repository"}
+         ]
+      },
+
+      {
+         "title":"Stock LSTM Forecasting",
+         "imageUrls": [
+            "https://firebasestorage.googleapis.com/v0/b/mywebpage-f159c.appspot.com/o/Stock%20LSTM%20Forecasting%2FScreenshot%202023-06-20%20at%203.09.04%20PM.png?alt=media&token=438fd730-24c3-4ef2-94bf-2edd8687edfb",
+            "https://firebasestorage.googleapis.com/v0/b/mywebpage-f159c.appspot.com/o/Stock%20LSTM%20Forecasting%2FScreenshot%202023-06-20%20at%203.09.44%20PM.png?alt=media&token=691b163b-34c4-46a8-9df5-be53b9521c8a",
+            "https://firebasestorage.googleapis.com/v0/b/mywebpage-f159c.appspot.com/o/Stock%20LSTM%20Forecasting%2FScreenshot%202023-06-20%20at%203.12.35%20PM.png?alt=media&token=0a145751-11a0-4043-a10b-8382157c60ea"
+         ],
+         "description":"The project consists of using a recurrent neural network LSTM (Long Short-Term Memory) to predict the price of a company's shares, in this specific case, The Home Depot (HD) company is used. To do this, a data engineering process is applied to obtain the relevant data necessary for model training.\nThe first step is to collect historical data for The Home Depot stock price, as well as data for the Annual Current Ratio, PE Ratio, Debt Equity Ratio, Turnover, ROE, PS Ratio, CPI (Consumer Price Index) and Interest rates. This data is obtained from trusted sources, such as financial databases or online data services.\nOnce the LSTM model is trained, the prediction of the future stock price is performed. Historical data and related characteristics such as the Annual Current Ratio, PE Ratio, Debt Equity Ratio, Turnover, ROE, PS Ratio, CPI, and interest rates are used to predict The Home Depot's stock price in a future period.\nFinally, the performance of the model is evaluated using appropriate metrics, such as the mean square error (MSE) or the coefficient of determination (R2).",
+         "links":[
+            {"url": "https://github.com/Sebas102507/LSTMStockForecasting/tree/main","name": "Repository"}
+         ]
+      },
+
+      {
+         "title":"LSTM Simpson's Chapter Script Generator",
+         "imageUrls": [
+            "https://firebasestorage.googleapis.com/v0/b/mywebpage-f159c.appspot.com/o/Simpsons%2FScreenshot%202023-06-21%20at%208.28.27%20PM.png?alt=media&token=07142062-c1ed-4c81-8ba0-d8e5ead40462",
+            "https://firebasestorage.googleapis.com/v0/b/mywebpage-f159c.appspot.com/o/Simpsons%2FScreenshot%202023-06-21%20at%208.29.00%20PM.png?alt=media&token=399ae7f3-ef5c-4850-8831-aefeac45a3c0",
+            "https://firebasestorage.googleapis.com/v0/b/mywebpage-f159c.appspot.com/o/Stock%20LSTM%20Forecasting%2FScreenshot%202023-06-20%20at%203.09.44%20PM.png?alt=media&token=691b163b-34c4-46a8-9df5-be53b9521c8a"
+         ],
+         "description":"The objective of this project is to utilize Long Short-Term Memory (LSTM), a type of recurrent neural network (RNN), to generate new chapters for the popular animated TV show \"The Simpsons.\" By leveraging a comprehensive database containing the transcripts of all existing \"Simpsons\" chapters, the LSTM model will learn the patterns, language, and comedic style of the show, allowing it to generate original content that captures the essence of the beloved series.\nThe project will involve several key steps. First, a dataset will be created by compiling the transcripts of all \"Simpsons\" chapters, ensuring that it is clean and well-structured for training the LSTM model. The dataset will serve as the foundation for the model's language learning and comprehension.\nNext, the LSTM architecture will be implemented and trained on the dataset. LSTM networks are specifically designed to capture long-term dependencies and temporal dynamics, making them well-suited for tasks such as language generation. The model will be trained to predict the next word or phrase given a sequence of preceding words from the transcripts.\nOnce the LSTM model has been trained, it will be capable of generating new chapters based on user prompts or random seed inputs. By providing an initial sentence or phrase, the model will utilize its learned knowledge of \"The Simpsons\" language and style to construct coherent and entertaining narratives. The generated chapters will emulate the humor, character dynamics, and storytelling elements that have made the show so popular over the years.",
+         "links":[
+            {"url": "https://github.com/Sebas102507/RNNSimpsonsChapterGenerator/tree/main","name": "Repository"}
+         ]
+      }
+
+   ]
+}

@@ -1,0 +1,105 @@
+{
+   "secondary_projects":[
+
+      {
+         "title":"Analysis of sexual crimes, intrafamily crimes, kidnapping, and homicides in Colombia.",
+         "imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA5QXIsmvyaocl04FG4F3X3c3u95uSJrKMdw&usqp=CAU",
+         "description":"Governments globally, including Colombia, are promoting open data initiatives, granting citizens access to public information. Colombia's datos.gov.co portal provides official and unofficial data across multiple categories, entities, and regions. This enhances transparency and enables citizen engagement in policymaking, budget tracking, and public interest matters. The platform currently holds nearly 6,000 datasets, over 20,000 visualizations, involving 935 entities. Furthermore, individuals can contribute to the community by sharing new data or analyzing existing information.",
+         "link":"https://github.com/Sebas102507/taller1_gestion_de_datos"
+      },
+
+      {
+         "title":"Sparkify, Big Data Project",
+         "imageUrl":"https://miro.medium.com/max/1400/1*zHsRLXWzeNYHtanEDeY3YQ.jpeg",
+         "description":"As a member of the data team in a popular digital music service, similar to Spotify or Pandora, my role is crucial in ensuring user satisfaction and the success of our business. Every interaction users have with the service, such as playing songs, logging out, liking songs, listening to ads, or changing their subscription, generates valuable data. It is my responsibility to analyze this data and predict which users are likely to churn, either by downgrading to the free tier or canceling their service altogether. By identifying these at-risk users in advance, we can offer them discounts and incentives, potentially saving our company millions in revenue.",
+         "link":"https://github.com/Sebas102507/BigData_Sparkify"
+      },
+
+      {
+         "title":"Job Classification Model",
+         "imageUrl":"https://cdn.corporatefinanceinstitute.com/assets/how-to-quit-a-job1.jpeg",
+         "description":"My team and I are tasked with creating analytics models to uncover the factors influencing an employee's decision to stay or leave their current job. Moreover, we need to build a predictive model that can determine the likelihood of an employee leaving using a provided test dataset. Our analysis will utilize demographic, education, and experience information gathered during registration to identify the key drivers behind job attrition. By leveraging this dataset, we aim to gain valuable insights into the factors influencing employee retention.",
+         "link":"https://github.com/Sebas102507/jobClassificationModel"
+      },
+
+      {
+         "title":"Bicycles Clustering",
+         "imageUrl":"https://miro.medium.com/max/1400/1*Ag5L08TUqLGKmhFvm2StTQ.png",
+         "description":"The objective of this notebook is to apply the clustering algorithm to a dataset and interpret the results. For this exercise, the AdventureWorks dataset will be used. It is a dataset of customers who are bicycle buyers.",
+         "link":"https://github.com/Sebas102507/bicyclesClustering"
+      },
+
+      {
+         "title":"Fifa Data Analysis",
+         "imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS67gplgsVPtEhplIdzkbLD_wEgI5mIYOLoHfaqTiBQy1jDJchMhesecE7Qdib1o-QulMo&usqp=CAU",
+         "description":"This notebook aims to perform an exploration and cleaning of the FIFA video game data and ultimately draw a series of conclusions.",
+         "link":"https://github.com/Sebas102507/fifaDataExploration"
+      },
+
+      {
+         "title":"Exploration of Data from the National Center for Health Statistics of the U.S.",
+         "imageUrl":"https://bloximages.newyork1.vip.townnews.com/midfloridanewspapers.com/content/tncms/assets/v3/editorial/8/24/8249216c-82d1-11ec-ba02-ff29a948c557/61f841a8b11af.image.jpg",
+         "description":"The National Center for Health Statistics (NCHS) has been collecting survey data on health and nutrition since the 1960s. As part of these surveys, approximately 5,000 individuals are interviewed each year in their homes, while a health examination is conducted in a mobile examination center (MEC). The dataset I am working with is derived from the 2009-2010 and 2011-2012 sample years, containing around 10,000 observations and 70 variables. It focuses on the \"civilian non-institutionalized population of the United States.",
+         "link":"https://github.com/Sebas102507/ExploracionNCHS"
+      },
+
+      {
+         "title":"Analysis of Public Contracts in Colombia",
+         "imageUrl":"https://media.licdn.com/dms/image/C4E16AQHLLPcVJtY4Xg/profile-displaybackgroundimage-shrink_200_800/0/1605815231130?e=2147483647&v=beta&t=Tft0W5cH4GsiDJ5UFj4RFOz6poEEA4wZhKHxFfJPrrU",
+         "description":"Analysis of public contracts in Colombia, joined with campaign financing data in order to analyze possible corrupt contracts and the relationship between campaign financing and the acquisition of bids.",
+         "link":"https://github.com/Sebas102507/publicContractsColombia"
+      },
+
+      {
+         "title":"Linear Optimization Model",
+         "imageUrl":"https://assets.website-files.com/62580e2b314402785e8f0a4d/6266c69632a392926ba14d2a_JRS.jpg",
+         "description":"In the problem presented in this report, the aim is to minimize costs through resource allocation by JRS. Starting from the context of the problem, it is known that JRS began receiving a series of donations from various entities: PRM, European Union, Foreign Ministry, GIZ.",
+         "link":"https://www.overleaf.com/read/vktsdqyfzmrc"
+      },
+
+      {
+         "title":"Neural Networks (Perceptron and Adaline from Scratch with NumPy)",
+         "imageUrl":"https://miro.medium.com/v2/resize:fit:639/1*_Epn1FopggsgvwgyDA4o8w.png",
+         "description":"In this notebook, I will guide you through the implementation and comprehension of two essential neural network models: Perceptron and ADALINE. We will gain hands-on experience by working with two distinct data sets: one with linearly separable data points, where classes are easily distinguished by a straight line or hyperplane, and another with nonlinearly separable data points, where a linear decision boundary falls short in accurate classification. By the end, we'll have trained and evaluated the performance of these models, providing a solid foundation for understanding neural networks.",
+         "link":"https://github.com/Sebas102507/NeuralNetwork_Perceptron"
+      },
+
+      {
+         "title":"Neural Networks with sklearn",
+         "imageUrl":"https://miro.medium.com/max/1400/1*3fA77_mLNiJTSgZFhYnU0Q.png",
+         "description":"In this notebook, we will explore implementations of feedforward neural networks using the scikit-learn library.",
+         "link":"https://github.com/Sebas102507/RedesNeuronalesPocoProfundas"
+      },
+
+      {
+         "title":"Testing ensemble methods",
+         "imageUrl":"https://miro.medium.com/max/773/1*Bic1BVl02k2evh0MmebhIQ.png",
+         "description":"The objective of this notebook is to familiarize oneself with ensemble techniques, identify their differences, and compare their results.",
+         "link":"https://github.com/Sebas102507/metodosEnsamble"
+      },
+      {
+         "title":"Linear Regression from Scratch with Numpy",
+         "imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYJxVIsDfcTExNuHIkW-EGwS9C2ijbDvpuyA&usqp=CAU",
+         "description":"In this notebook, we will explore the implementation of a linear regression model using basic Python and the machine learning library for the Machine Learning class of the Master's program in Artificial Intelligence at PUJ.",
+         "link":"https://github.com/Sebas102507/linearRegressionML"
+      },
+      {
+         "title":"Implementation of logistic regression from scratch using numpy",
+         "imageUrl":"https://miro.medium.com/v2/resize:fit:460/1*klFuUpBGVAjTfpTak2HhUA.png",
+         "description":"For this workshop, the objective was to implement logistic regression from scratch using numpy. It is part of the Machine Learning course in the Master's program in Artificial Intelligence at PUJ.",
+         "link":"https://github.com/Sebas102507/logisticRegression"
+      },
+      {
+         "title":"Model Comparison Based on the ROC Curve",
+         "imageUrl":"https://www.displayr.com/wp-content/uploads/2018/07/ROC-curve-780x480.png",
+         "description":"The objective of this notebook is to familiarize ourselves with comparing classifiers. First, I load the necessary libraries and modules. Next, I load a labeled dataset for training and testing the classifiers. Then, I split the dataset into training and testing sets. Using the training data, I train the classifiers and evaluate their performance on the testing data. Finally, I compare the trained classifiers using the ROC curve to assess their performance.",
+         "link":"https://github.com/Sebas102507/ROC_Curve"
+      },
+      {
+         "title":"Implementation of Decision Trees",
+         "imageUrl":"https://www.explorium.ai/wp-content/uploads/2019/12/Decision-Trees-2.png",
+         "description":"Objective: The objective of this notebook is to familiarize yourself with the supervised technique of decision trees through training, evaluation, and use for prediction of a tree.1)Load libraries 2)Load the Data 3)Explore the Data 4)Prepare the data 5)Split the dataset into training and testing 6)Train and test the Decision Tree 7)Calculate performance metrics 8)Visualize the tree 9)Apply pre-pruning 10)Optimize hyperparameters",
+         "link":"https://github.com/Sebas102507/DecisionTree"
+      }
+   ]
+}

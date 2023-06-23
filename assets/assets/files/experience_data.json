@@ -1,0 +1,69 @@
+{
+   "experience":[
+
+      {
+         "year":"2018",
+         "imageUrls": [
+            "https://firebasestorage.googleapis.com/v0/b/mywebpage-f159c.appspot.com/o/Experience%2F2018%2FScreenshot%202023-06-21%20at%202.06.13%20PM.png?alt=media&token=c25ad6f1-73f1-49bf-a22e-3ddfa0a93c46",
+            "https://firebasestorage.googleapis.com/v0/b/mywebpage-f159c.appspot.com/o/Experience%2F2018%2FScreenshot%202023-06-21%20at%202.05.46%20PM.png?alt=media&token=32e0dbb5-606c-4c16-b3dd-2b4d0035729c",
+            "https://firebasestorage.googleapis.com/v0/b/mywebpage-f159c.appspot.com/o/Experience%2F2018%2FScreenshot%202023-06-21%20at%202.05.31%20PM.png?alt=media&token=69eca8aa-137c-43ea-97ec-9cb8c48a8587"
+         ],
+         "description":"In 2018, my journey in computer science and robotics reached its pinnacle as I received a prestigious decoration for my exceptional achievements in high school. This recognition honored my unwavering dedication and ingenuity in these fields. Two groundbreaking projects played a central role in earning this recognition. \n\nThe first project was an impressive rover, inspired by NASA's Mars Rover and crafted meticulously using Arduino. Equipped with a versatile arm controlled remotely through a user-friendly mobile application developed with MIT App Inventor, the rover demonstrated its ability to pick up rocks and objects, navigating and exploring its surroundings with precision. \n\nThe second project that contributed to my reputation was a remarkable robotic hand resembling a prosthetic device. Utilizing the power of Arduino and an innovative mobile application, I designed a sophisticated mechanism that allowed the hand to open and close. This creation exemplified my commitment to improving lives through technology, empowering individuals with limb impairments to regain dexterity and independence by controlling the hand through intuitive gestures on the app."
+      },
+      {
+         "year":"2019",
+         "imageUrls": [
+            "https://firebasestorage.googleapis.com/v0/b/mywebpage-f159c.appspot.com/o/Experience%2F2019%2FScreenshot%202023-06-21%20at%202.19.21%20PM.png?alt=media&token=6841a338-c7b6-4617-b469-d9e7919a4958",
+            "https://firebasestorage.googleapis.com/v0/b/mywebpage-f159c.appspot.com/o/Experience%2F2019%2FScreenshot%202023-06-21%20at%202.20.51%20PM.png?alt=media&token=7cac1741-43cd-45e7-b17b-516f2caa2242",
+            "https://firebasestorage.googleapis.com/v0/b/mywebpage-f159c.appspot.com/o/Experience%2F2019%2FIMG_0464.jpg?alt=media&token=b9b57707-b46e-4231-b17f-80b5ba14c7c2"
+         ],
+         "description":"In 2019, my educational journey took a significant leap as I began my studies in System Engineering, thanks to a scholarship I received. This opportunity allowed me to pursue my academic aspirations and delve into the exciting world of computer systems and engineering principles.\n\nDuring that same year, my dedication and commitment to my studies paid off as I was honored with a decoration for achieving one of the highest GPAs in my career. This recognition highlighted my exceptional academic performance and served as a testament to my hard work and diligence.\n\nIn addition, I had the privilege of being a part of ACM for a year. ACM, renowned as a research hotbed for coding marathons, provided me with a platform to engage with like-minded individuals and immerse myself in the world of cutting-edge research and coding competitions. Being a part of ACM allowed me to enhance my problem-solving skills, collaborate with talented peers, and stay at the forefront of technological advancements in the field of computer science.",
+         "links": [
+            "https://github.com/Sebas102507/taller1_gestion_de_datos",
+            "https://firebasestorage.googleapis.com/v0/b/mywebpage-f159c.appspot.com/o/Rubik's%20Cube%20Deep%20Q-Network%2FScreenshot%202023-06-20%20at%203.02.04%20PM.png?alt=media&token=cc36aa51-c326-48b3-8f65-0c34dfd1910a",
+            "https://firebasestorage.googleapis.com/v0/b/mywebpage-f159c.appspot.com/o/Rubik's%20Cube%20Deep%20Q-Network%2FScreenshot%202023-06-20%20at%203.05.50%20PM.png?alt=media&token=a1fb2534-9068-42eb-b0d4-472983571b9c"
+         ]
+      },
+      {
+         "year":"2020",
+         "imageUrls": [
+            "https://firebasestorage.googleapis.com/v0/b/mywebpage-f159c.appspot.com/o/Experience%2F2020%2FIMG_0467.jpg?alt=media&token=b62406fd-196f-4c1d-af0b-86bbe988328b",
+            "https://firebasestorage.googleapis.com/v0/b/mywebpage-f159c.appspot.com/o/Experience%2F2020%2FIMG_0466.jpg?alt=media&token=0cc9505f-c0c9-4189-aff2-3fa6ece13de5",
+            "https://firebasestorage.googleapis.com/v0/b/mywebpage-f159c.appspot.com/o/Experience%2F2020%2FIMG_0469.jpg?alt=media&token=2b836cc8-43f9-4690-9839-12602a66a86f"
+         ],
+         "description":"In 2020, I embarked on an entrepreneurial journey and successfully created and launched my first startup, called Fluppy. Fluppy was a mobile application available for both iOS and Android platforms, catering to the needs of dog and cat owners. The app offered a wide range of products and services, including food, medicine, toys, and veterinary care, specifically tailored to enhance the well-being of pets. Despite the challenges posed by the global pandemic, Fluppy managed to gain traction, attracting approximately 1000 downloads on both app stores.\n\nUnfortunately, due to the economic crisis exacerbated by the pandemic, we faced difficulties sustaining the startup, leading to the decision to close the project. However, the story of Fluppy didn't end there. In a strategic move, we sold the code of the application to a foreign company.\n\nDuring this eventful year, I also had the opportunity to participate in the prestigious entrepreneurship camp, Javeriana Territorio Emprendedor, organized by Pontificia Universidad Javeriana. The camp provided a platform for aspiring entrepreneurs to showcase their innovative ideas and business models. I was thrilled to secure the first place, recognized for the most influential potential, further validating the viability and impact of my entrepreneurial endeavors."
+      },
+
+      {
+         "year":"2021",
+         "imageUrls": [
+            "https://firebasestorage.googleapis.com/v0/b/mywebpage-f159c.appspot.com/o/Experience%2F2021%2FScreenshot%202023-06-21%20at%202.43.19%20PM.png?alt=media&token=1b02610c-7296-4e57-b4e6-3f6c684249ee",
+            "https://firebasestorage.googleapis.com/v0/b/mywebpage-f159c.appspot.com/o/Experience%2F2021%2FIMG_0470.jpg?alt=media&token=7c2e0166-5699-4c6a-8745-353e96bd15c9",
+            "https://firebasestorage.googleapis.com/v0/b/mywebpage-f159c.appspot.com/o/Experience%2F2021%2FIMG_0468.jpg?alt=media&token=3f84b087-c4ee-4985-b759-9170c8890028"
+         ],
+         "description":"In 2021, I embarked on a new and exciting learning journey as I delved into studying Mandarin. Recognizing the growing significance of China in the current economic and technological landscape, I sought to understand and embrace the language that plays a pivotal role in this global context. My decision to study Mandarin was driven by the realization that China's influence and contributions are shaping the world in various domains, including business, technology, and international relations.\n\nThroughout the year, I immersed myself in Mandarin language classes, seeking to grasp the intricacies of its grammar, vocabulary, and pronunciation. By investing my time and effort in learning Mandarin, I aimed to gain a deeper understanding of Chinese culture, history, and society. I recognized that fluency in Mandarin could open doors to new opportunities, foster cross-cultural communication, and facilitate professional collaborations in an increasingly interconnected global landscape."
+      },
+
+      {
+         "year":"2022",
+         "imageUrls": [
+            "https://firebasestorage.googleapis.com/v0/b/mywebpage-f159c.appspot.com/o/Experience%2F2022%2FScreenshot%202023-06-21%20at%203.04.37%20PM.png?alt=media&token=ea235c81-8c37-40cd-ab2d-15a5d37bda61",
+            "https://firebasestorage.googleapis.com/v0/b/mywebpage-f159c.appspot.com/o/Experience%2F2022%2FScreenshot%202023-06-21%20at%203.04.46%20PM.png?alt=media&token=7a0ef6c7-8050-405d-af6e-c48a6ac1565f",
+            "https://firebasestorage.googleapis.com/v0/b/mywebpage-f159c.appspot.com/o/Experience%2F2022%2FScreenshot%202023-06-21%20at%203.04.56%20PM.png?alt=media&token=23a841fd-1798-46f7-901a-3747f1fcd324"
+         ],
+         "description":"In 2022, my journey in the field of research and data science took a significant leap as I actively participated in Sekia, the research hotbed at Pontificia Universidad Javeriana. Engaging in research and development activities focused on Data Science and AI, I contributed to various research projects and had the opportunity to deliver lectures on data analytics and machine learning. \n\nI was invited to participate in a 6-month course with Boston College, where I gained invaluable insights into forecasting with R. \n\nIn addition to my academic pursuits, I also gained practical experience as a Data Analyst with JRS. Working in this role, I leveraged my analytical skills to extract meaningful insights from data, contributing to informed decision-making processes within the organization.\n\nFurthermore, I began exploring subjects related to the master's degree in Artificial Intelligence, focusing on Machine Learning and Data Management. \n\nFinally, I embarked on a new professional journey as a Data Engineer for the research vice-presidency of Pontificia Universidad Javeriana. In this role, I assumed responsibility for designing and implementing an ETL (Extract, Transform, Load) process to seamlessly transfer and organize data related to faculty research projects into the cloud."
+      },
+
+      {
+         "year":"2023",
+         "imageUrls": [
+            "https://firebasestorage.googleapis.com/v0/b/mywebpage-f159c.appspot.com/o/Experience%2F2023%2FScreenshot%202023-06-21%20at%203.20.14%20PM.png?alt=media&token=e2abb290-3423-4474-a2da-81a22f3151b2",
+            "https://firebasestorage.googleapis.com/v0/b/mywebpage-f159c.appspot.com/o/Experience%2F2023%2FScreenshot%202023-06-21%20at%203.18.09%20PM.png?alt=media&token=945a32a1-ca87-4fda-919a-3b568ef40088",
+            "https://firebasestorage.googleapis.com/v0/b/mywebpage-f159c.appspot.com/o/Experience%2F2023%2FScreenshot%202023-06-21%20at%203.15.31%20PM.png?alt=media&token=cf18983d-0f01-40e8-b242-342c39456cae"
+         ],
+         "description":"In 2023, I had a remarkable year filled with diverse experiences and accomplishments. Firstly, as part of my thesis work, my two teammates and I received an honorable mention for our innovative combination of medicine, AI, and a microservice architecture. This recognition underscored our efforts to leverage technology and artificial intelligence to enhance the field of medicine.\n\nIn addition to academic success, I also launched my second startup called Litine. Litine is a marketplace app that connects medical cannabis stores with consumers, providing a platform for seamless transactions. This entrepreneurial venture presented exciting opportunities, including participation in StartCo, one of the largest events in the tech and entrepreneurship sector in Colombia. At StartCo, we had the privilege of pitching our app, gaining exposure, and networking with industry professionals and potential investors.\n\nFurthermore, I was invited by the faculty of engineering to join a trip to the University of Cincinnati, where I delved into the significance of AI and cryptocurrencies in businesses. During this visit, I had the chance to explore the research laboratories at the university and engage in insightful discussions with engineers actively working in the field. \n\nContinuing my studies in the master's degree program in Artificial Intelligence, I had the opportunity to delve into the fascinating realm of deep learning. Through in-depth coursework, I explored topics such as neural networks, convolutional neural networks (CNN), recurrent neural networks (RNN), diffusion models, attention models, transformers, and reinforcement learning."
+      }
+
+
+   ]
+}
