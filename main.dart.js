@@ -60049,11 +60049,11 @@ s=m*0.01
 r=k.j(a,"title")
 q=this.c
 q.toString
-q=A.bx(A.aw(o,new A.dt(B.U,o,o,A.c_(r,A.aB(q).RG.z.wA(B.bF,m*0.014,B.a1),B.H),o),o,o,o,o,new A.aG(s,0,s,0),o),1)
+p=m*0.012
+q=A.bx(A.aw(o,new A.dt(B.U,o,o,A.c_(r,A.aB(q).RG.z.wA(B.bF,p,B.a1),B.H),o),o,o,o,o,new A.aG(s,0,s,0),o),1)
 k=k.j(a,"description")
 r=this.c
 r.toString
-p=m*0.012
 s=A.bx(A.aw(o,A.c_(k,A.aB(r).RG.z.cf(p),B.ag),o,o,o,o,new A.aG(s,0,s,0),o),5)
 m=A.aed(B.k0,B.bE,m*0.015)
 r=this.c
@@ -64921,7 +64921,7 @@ B.vx=new A.pe(0,0,null,null)
 B.vy=new A.wk(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.ke=new A.GM(0,0,0,0,0,0,!1,!1,null,0)
 B.GA=new A.wl(3,1.6)
-B.GB=new A.wl(2,0.4)
+B.GB=new A.wl(2,0.3)
 B.GC=new A.wl(2,0.8)
 B.MP=new A.pm(3,"hide")
 B.GD=new A.pm(5,"timeout")
