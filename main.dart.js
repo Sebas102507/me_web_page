@@ -59947,7 +59947,7 @@ q=l*0.01
 m=j.j(m,"description")
 n=n.c
 n.toString
-return A.aw(p,A.eZ(A.a([h,i,r,A.bx(A.aw(p,A.c_(m,A.aB(n).RG.z.cf(l*0.012),B.ag),p,p,p,p,new A.aG(q,5,q,0),p),7)],s),B.F,B.a7,B.G),p,new A.bC(p,p,k,B.eN,p,p,B.y),l*1.4,new A.aG(0,20,0,20),p,l*0.45)},
+return A.aw(p,A.eZ(A.a([h,i,r,A.bx(A.aw(p,A.c_(m,A.aB(n).RG.z.cf(l*0.014),B.ag),p,p,p,p,new A.aG(q,5,q,0),p),12)],s),B.F,B.a7,B.G),p,new A.bC(p,p,k,B.eN,p,p,B.y),l*1.4,new A.aG(0,20,0,20),p,l*0.45)},
 $S:24}
 A.lU.prototype={
 ag(){return new A.JW(B.l)}}
@@ -60033,16 +60033,17 @@ this.rA()
 this.b9()},
 L(a){var s=this,r=null,q=a.a0(t.w).f.a
 return A.aw(r,A.ahw(A.a([new A.mE(A.aw(r,A.c_("My Top Projects \ud83c\udf1f",A.aB(a).RG.d.cf(25),B.ag),r,r,r,B.fi,r,r),r),A.aeP(new A.mD(new A.a9H(s,q),J.aW(s.d),!0,!0,!0,r),B.GB),new A.mE(A.aw(r,A.c_("Other Projects\ud83d\udcda",A.aB(a).RG.d.cf(25),B.ag),r,r,r,B.fi,r,r),r),A.aeP(new A.mD(new A.a9I(s,q),J.aW(s.e),!0,!0,!0,r),B.GC)],t.E)),r,r,r,r,B.mg,1/0)},
-a25(a,b){var s,r=null,q="imageUrls",p=A.As(B.aZ,1),o=J.an(a),n=A.bx(A.aw(r,r,r,new A.bC(B.h,A.f2(B.b9,A.lt(J.ah(o.j(a,q),0))),r,B.eP,r,r,B.y),r,r,r,r),3),m=t.E,l=A.bx(A.jf(A.a([A.bx(A.aw(r,r,r,new A.bC(B.h,A.f2(B.b9,A.lt(J.ah(o.j(a,q),1))),r,r,r,r,B.y),r,r,r,r),1),B.w0,A.bx(A.aw(r,r,r,new A.bC(B.h,A.f2(B.b9,A.lt(J.ah(o.j(a,q),2))),r,r,r,r,B.y),r,r,r,r),1)],m),B.F,B.a7,B.G),3),k=b.a,j=k*0.01,i=o.j(a,"title"),h=this.c
-h.toString
-h=A.bx(A.aw(r,new A.dt(B.U,r,r,A.c_(i,A.aB(h).RG.z.wA(B.bF,k*0.014,B.a1),B.H),r),r,r,r,r,new A.aG(j,0,j,0),r),1)
-i=o.j(a,"description")
-s=this.c
-s.toString
-j=A.bx(A.aw(r,A.c_(i,A.aB(s).RG.z.cf(k*0.012),B.ag),r,r,r,r,new A.aG(j,0,j,0),r),6)
-k=J.agS(J.aW(o.j(a,"links")),k)
-o=J.aW(o.j(a,"links"))
-return A.aw(r,A.eZ(A.a([n,l,h,j,A.pf(new A.DP(new A.mD(new A.a9N(b,a),o,!0,!0,!0,r),r,B.E,!1,r,r,B.ES,r,!1,r,0,r,o,B.b_,B.jW,r,B.ai,r),k*0.06,r)],m),B.F,B.a7,B.G),r,new A.bC(r,r,p,B.eP,r,r,B.y),r,r,r,r)},
+a25(a,b){var s,r,q=null,p="imageUrls",o=A.As(B.aZ,1),n=J.an(a),m=A.bx(A.aw(q,q,q,new A.bC(B.h,A.f2(B.b9,A.lt(J.ah(n.j(a,p),0))),q,B.eP,q,q,B.y),q,q,q,q),3),l=t.E,k=A.bx(A.jf(A.a([A.bx(A.aw(q,q,q,new A.bC(B.h,A.f2(B.b9,A.lt(J.ah(n.j(a,p),1))),q,q,q,q,B.y),q,q,q,q),1),B.w0,A.bx(A.aw(q,q,q,new A.bC(B.h,A.f2(B.b9,A.lt(J.ah(n.j(a,p),2))),q,q,q,q,B.y),q,q,q,q),1)],l),B.F,B.a7,B.G),3),j=b.a,i=j*0.01,h=n.j(a,"title"),g=this.c
+g.toString
+s=j*0.014
+g=A.bx(A.aw(q,new A.dt(B.U,q,q,A.c_(h,A.aB(g).RG.z.wA(B.bF,s,B.a1),B.H),q),q,q,q,q,new A.aG(i,0,i,0),q),1)
+h=n.j(a,"description")
+r=this.c
+r.toString
+i=A.bx(A.aw(q,A.c_(h,A.aB(r).RG.z.cf(s),B.ag),q,q,q,q,new A.aG(i,0,i,0),q),10)
+j=J.agS(J.aW(n.j(a,"links")),j)
+n=J.aW(n.j(a,"links"))
+return A.aw(q,A.eZ(A.a([m,k,g,i,A.pf(new A.DP(new A.mD(new A.a9N(b,a),n,!0,!0,!0,q),q,B.E,!1,q,q,B.ES,q,!1,q,0,q,n,B.b_,B.jW,q,B.ai,q),j*0.06,q)],l),B.F,B.a7,B.G),q,new A.bC(q,q,o,B.eP,q,q,B.y),q,q,q,q)},
 Kl(a,b){var s,r,q,p,o=null,n=A.As(B.aZ,1),m=b.a,l=m*0.06,k=J.an(a)
 l=A.bx(A.aw(o,o,o,new A.bC(B.h,A.f2(o,A.lt(k.j(a,"imageUrl"))),o,B.eO,o,o,B.y),o,new A.aG(l,0,l,0),o,o),2)
 s=m*0.01
