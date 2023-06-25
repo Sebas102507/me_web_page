@@ -10,7 +10,8 @@
          ],
          "description":"web prototype that allows to load magnetic resonances of the human brain and by using a machine learning model, obtains an answer with the identification of the noise level (presence or absence) of the images. During the development of the project, a model of Convolutional Neural Networks was developed. This is framed in the Artificial Intelligence area and its implementation was based on training, validation, testing and subsequent deployment. At the end, the applied model is the one that allows the identification of the noise level for each one of the magnetic resonances of the human brain.\nAdditionally, a file is generated with the result of the classification that is compatible with the information handled in the research area of the Faculty of Medicine of the Pontificia Universidad Javeriana and the Hospital San Ignacio. This can be downloaded once the result is obtained and the user can view it in the web prototype.",
          "links":[
-            {"url": "https://github.com/Proyecto-de-Grado-Brainy-Noise","name": "Repositories"}
+            {"url": "https://github.com/Proyecto-de-Grado-Brainy-Noise","name": "Repositories"},
+            {"url": "https://www.overleaf.com/read/pnsbzrgrwzqz","name": "Paper"}
          ]
       },
 
@@ -24,7 +25,8 @@
          "description":"CarVi is a mobile application that offers the ability to capture photos of vehicles and obtain relevant information about them. The app uses two models to achieve this. First, it uses a model called ResNet50, which is a pre-trained convolutional neural network. However, instead of using it directly, the model is fine-tuned to specifically adapt it for the purpose of vehicle recognition. Fine-tuning involves retraining the model using a custom dataset, allowing model weights and features to be tuned to improve its accuracy in the vehicle recognition task. Second, CarVi uses an approach called the Spatial Attention Module (SAM) developed by Meta. SAM is used to remove the \"noise\" from the captured image of the vehicle, that is, its background and therefore only capture the vehicle. The spatial attention module helps to focus the model's attention on the most important regions of the image, which helps improve the quality and clarity of the information obtained from the vehicle.",
          "links":[
             {"url": "https://github.com/Sebas102507/carvi_app","name": "Frontend Repository"},
-            {"url": "https://github.com/Sebas102507/Carvi_Deep_Learning_Mobile_App/tree/main","name": "Backend Repository"}
+            {"url": "https://github.com/Sebas102507/Carvi_Deep_Learning_Mobile_App/tree/main","name": "Backend Repository"},
+            {"url": "https://www.overleaf.com/read/wtrkvkqnnvch","name": "Paper"}
          ]
       },
 
@@ -50,7 +52,8 @@
          ],
          "description":"MeteoNet is a data set published by the French meteorological service METEO FRANCE for the community to propose analyzes and models using climate data.\nSome of the data available in MeteoNet are the historical meteorological observations of sensors that measure temperature, humidity, pressure, wind in different stations located throughout the French territory, given the above, a meteorological station was chosen to analyze and through the use of networks recurrent neural pathways create a predictive model of temperature and precipitation at the weather station.",
          "links":[
-            {"url": "https://github.com/Sebas102507/MeteoNetForecasting/tree/main","name": "Repository"}
+            {"url": "https://github.com/Sebas102507/MeteoNetForecasting/tree/main","name": "Repository"},
+            {"url": "https://www.overleaf.com/read/kbgmfnzdmtdm","name": "Paper"}
          ]
       },
 
@@ -63,7 +66,8 @@
          ],
          "description":"The objective of the application is to predict the genre of 30-second audio clips submitted by users. The models used for prediction are trained using the GTZAN music dataset. The application has several functional requirements:\n\nPrediction: Users can upload a .wav audio file, not exceeding 30 seconds in length. The system will then predict the genre of the audio and provide the result to the user.\nResult Retrieval: The system allows users to access all the calculated results obtained from previous prediction requests.\nAudio Storage: The system maintains a persistent storage for the audio files uploaded by users. This enables comparisons between the audio played and the corresponding prediction.\nModel Modification: The system administrator has the capability to easily change the trained model used for predictions. However, training the model directly within the system's hardware components is not required. The model can be trained externally and then integrated into the system.",
          "links":[
-            {"url": "https://github.com/Sebas102507/music_gender_app_classifier_with_NN","name": "Repository"}
+            {"url": "https://github.com/Sebas102507/music_gender_app_classifier_with_NN","name": "Repository"},
+            {"url": "https://www.overleaf.com/read/xspmvrhxdbrp","name": "Paper"}
          ]
       },
 
@@ -76,7 +80,8 @@
          ],
          "description":"The project aims to develop an artificial intelligence model using Deep Q-Networks (DNQ) to automatically solve the Rubik's cube puzzle. The model employs reinforcement learning, where an AI agent learns to make decisions based on the cube's current state and available actions to move its faces. Through a combination of exploration and exploitation, the agent discovers new strategies and improves its performance.\n\nDuring training, the model receives positive rewards for progress towards a solution and negative rewards for moving away from it. As the agent continues training, it is expected to become more efficient and solve the Rubik's cube in fewer moves.\n\nOnce trained, the model can autonomously solve the Rubik's cube by evaluating the cube's current state and selecting optimal actions. The outcome is an efficient AI model capable of automatically solving the Rubik's cube puzzle.",
          "links":[
-            {"url": "https://github.com/Sebas102507/RubikCubeDQN","name": "Repository"}
+            {"url": "https://github.com/Sebas102507/RubikCubeDQN","name": "Repository"},
+            {"url": "https://www.overleaf.com/read/wdhxkcbpfzdz","name": "Paper"}
          ]
       },
 
@@ -89,7 +94,8 @@
          ],
          "description":"The project focuses on sign language classification using the \"sign-language-mnist\" dataset. Three approaches were implemented: training a convolutional network from scratch, using transfer learning with pre-trained networks like VGG16 or ResNet, and employing transfer learning with the MobileNet V2 convolutional network. The first approach involves designing and training a network specifically for sign language. The second approach adapts pre-trained networks to the sign language dataset, benefiting from prior knowledge and expediting training. The third approach utilizes MobileNet V2, an efficient architecture for computer vision on mobile devices, leveraging its pre-trained model on a large dataset for accurate sign language classification. These approaches provide different strategies for effectively classifying signs of sign language in the project.",
          "links":[
-            {"url": "https://github.com/Sebas102507/SignLanguageAiClassifier/tree/main","name": "Repository"}
+            {"url": "https://github.com/Sebas102507/SignLanguageAiClassifier/tree/main","name": "Repository"},
+            {"url": "https://www.overleaf.com/read/kbgmfnzdmtdm","name": "Paper"}
          ]
       },
 
