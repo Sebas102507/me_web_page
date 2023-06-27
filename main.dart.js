@@ -59867,7 +59867,7 @@ n=A.bs(A.i2(A.a([o,A.bs(A.al(q,r.wv(p,"LinkedIn:\nJuan Sebasti\xe1n Vargas Torre
 o=A.aN(153,3,201,136)
 o=A.bs(A.al(q,r.XU(p,"Email:\nvargas_jsebastian@javeriana.edu.co",B.AE,"vargas_jsebastian@javeriana.edu.co"),o,q,q,q,q,q,1/0),1)
 s=A.aN(153,255,171,64)
-return A.al(q,A.eZ(A.a([n,A.bs(A.i2(A.a([o,A.bs(A.al(q,r.wv(p,"Download My Resume!",B.AF,"https://drive.google.com/file/d/17FS9nivW1xYzVhVMWujrQ4Q8ljY5oSUV/view?usp=sharing"),s,q,q,q,q,q,1/0),1)],m),B.D,B.a2,B.E),1)],m),B.D,B.a2,B.E),q,q,q,q,q,q,q)},
+return A.al(q,A.eZ(A.a([n,A.bs(A.i2(A.a([o,A.bs(A.al(q,r.wv(p,"Download My Resume!",B.AF,"https://drive.google.com/file/d/1cqdlQBocqHf0GtcDAMpEOvDU0LslEA9G/view?usp=sharing"),s,q,q,q,q,q,1/0),1)],m),B.D,B.a2,B.E),1)],m),B.D,B.a2,B.E),q,q,q,q,q,q,q)},
 G1(a,b,c,d,e){var s=null,r=a.a,q=A.ae8(c,B.h,r*0.05),p=this.c
 p.toString
 return A.iX(!1,!0,A.eZ(A.a([q,A.al(s,A.c_(b,A.ay(p).RG.z.Ga(r*0.012,B.a1),B.eu),s,s,s,s,s,B.mj,s)],t.E),B.D,B.aU,B.E),s,!0,s,s,s,s,s,s,s,s,s,new A.a6L(e,d),s)},
